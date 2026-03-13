@@ -2,9 +2,16 @@
 
 우선순위별 색상 태그가 있는 할 일 목록 애플리케이션 (Laravel 12.x)
 
+## 기술 스택
+
+- Laravel 12.x (PHP 8.3+)
+- Blade 템플릿
+- MySQL 데이터베이스
+- Tailwind CSS (스타일링)
+
 ## 요구 사항
 
-- PHP 8.2 이상
+- PHP 8.3 이상
 - Composer
 - MySQL 5.7 이상
 
